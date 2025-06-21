@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: cognimeet-translate-api
+    env: python
+    buildCommand: ""
+    startCommand: "python run.py"
+    envVars:
+      - key: GOOGLE_APPLICATION_CREDENTIALS
+        value: key.json
