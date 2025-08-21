@@ -1,3 +1,4 @@
+```
 cognimeet_api_google_cloud/        ← 🟦 Main Project Folder (your choice of name)
 │
 ├── app/                           ← 📁 Main Flask App Code
@@ -16,7 +17,4 @@ cognimeet_api_google_cloud/        ← 🟦 Main Project Folder (your choice of 
 ├── key.json                       ← 📄 Your Google Cloud service account key
 └── README.md                      ← 📄 Project info for your team (optional but good)
 
-
-https://chatgpt.com/share/6856edd1-e0b0-800e-b301-f38c9181e2cb
-
-Add a new route in routes.py that uses that logic:
+```
